@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-We gonna make it.
+Let Love Endure!
 Use the left arrow to go back
